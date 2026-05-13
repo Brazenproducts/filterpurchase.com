@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://filterpurchase.com/sitemap.xml
